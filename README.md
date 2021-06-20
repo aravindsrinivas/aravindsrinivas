@@ -1,4 +1,4 @@
-### Hi there 👋
+### Step 0 towards becoming more active with public repos.  👋
 
 <!--
 **aravindsrinivas/aravindsrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
