@@ -1,4 +1,4 @@
-### Deep Learning Researcher with interests in scaling large models to do useful things.  👋
+### Deep Learning Researcher with interests in scaling large models to do useful things. 
 
 <!--
 **aravindsrinivas/aravindsrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
